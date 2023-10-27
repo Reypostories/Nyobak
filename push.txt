@@ -1,0 +1,4 @@
+git add.
+git commit -m "Changelog"
+git remote -v / git remote add origin https://github.com/YeremiaCCO/Nyobak.git
+git push -u origin main
